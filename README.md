@@ -2,6 +2,10 @@
 
 Hands-on lab code for the Snowflake Activation Webinar.
 
+## Slides
+
+The webinar deck: [`securing-snowflake-slides.pdf`](securing-snowflake-slides.pdf)
+
 ## What you'll build
 
 1. Two demo users: a human (`PERSON`) and a service account (`SERVICE`)
